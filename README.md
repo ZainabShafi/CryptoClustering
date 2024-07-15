@@ -16,8 +16,11 @@ Learning to apply the Elbow method was particularly valuable, as it provided a c
 ## Technologies Used:
 
 **Python:** The primary programming language for the analysis.
+
 **Pandas:** For data manipulation and analysis, particularly for handling the cryptocurrency dataset.
+
 **Scikit-learn:** For implementing machine learning algorithms, including K-means clustering and PCA.
+
 **HVPlot:** For interactive visualization of data, making it easier to visualize the results of clustering and PCA.
 
 ## Analysis Steps: 
